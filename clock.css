@@ -1,0 +1,22 @@
+/*You always reference ids by putting a "#" in front of their names*/
+#clock {
+
+    /*Font-size is controlled by the font-size CSS property*/
+    font-size:175px;
+
+    /*CSS has a property called width that controls the elements width*/
+    width:900px;
+
+    /*Three important properties control the space that surrounds each HTML elements: padding,margin and border*/
+    /*An elements margin controls the amount of space between the elements border and surrounding elements*/
+    margin:200px;
+
+    /*CSS has several options for aligning our text*/
+    text-align: center;
+
+    /*CSS borders have properties like width, style and color*/
+    border: 2px solid black;
+
+    /*You can round the borders using CSS property border-radius*/
+    border-radius: 20px;
+}
